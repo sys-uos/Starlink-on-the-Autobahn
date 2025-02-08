@@ -2,7 +2,7 @@
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 # Starlink-on-the-Autobahn Data Set
 This repository contains the data used in our paper 
-[TBF](https://tbf). All measurements were conducted on a Autobahn ride from Osnabrück to Bunde, Germany. The number of samples varies depending on the type of measurement. Details of the measurement setup are presented in our paper. Aditionally, we provide stationary measurements conducted in Osnabrück, Germany, providing data to compate different dish types and data plans.
+[Measuring Mobile Starlink Performance: A Comprehensive Look](https://ieeexplore.ieee.org/document/10877858). All measurements were conducted on a Autobahn ride from Osnabrück to Bunde, Germany. The number of samples varies depending on the type of measurement. Details of the measurement setup are presented in our paper. Aditionally, we provide stationary measurements conducted in Osnabrück, Germany, providing data to compate different dish types and data plans.
 
 **Readme is work in progress, more information will be extended in the next days!**
 
@@ -66,11 +66,20 @@ The collected data is located in the Data directory, which contains three subfol
 
 
 ## Citation 
-Will be updated on paper publication.
+D. Laniewski, E. Lanfer and N. Aschenbruck, "Measuring Mobile Starlink Performance: A Comprehensive Look," in IEEE Open Journal of the Communications Society, doi: 10.1109/OJCOMS.2025.3539836.
+
 ```
-Dominic Laniewski, Eric Lanfer, Nils Aschenbruck
-"Measuring Mobile Starlink Performance: A Comprehensive Look".
-accepted for publication in IEEE Open Journal of the Communications Society (OJCOMS). 
+@ARTICLE{10877858,
+  author={Laniewski, Dominic and Lanfer, Eric and Aschenbruck, Nils},
+  journal={IEEE Open Journal of the Communications Society}, 
+  title={Measuring Mobile Starlink Performance: A Comprehensive Look}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-1},
+  keywords={Satellite constellations;Extraterrestrial measurements;Satellites;Automobiles;Sea measurements;Road transportation;Orbits;Velocity measurement;Urban areas;Standards;Dataset;Flat High Performance;LEO;LEO Measurement;Measurement;Mobility;Satellite Communication;Starlink;Starlink Dataset;Starlink Measurement;Starlink Mobility},
+  doi={10.1109/OJCOMS.2025.3539836}}
+
 ```
 ## License
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
